@@ -1,0 +1,13 @@
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\bin\Debug\College1EnProject.exe.config
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\bin\Debug\College1EnProject.exe
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\bin\Debug\College1EnProject.pdb
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.csproj.AssemblyReference.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.Add_or_Modify_Rows.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.Form1.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.Manage_Final_Grade.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.Properties.Resources.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.csproj.GenerateResource.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.csproj.CoreCompileInputs.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.exe
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\Sem 3\Multi-Tier Development\Project\College1EnProject\College1EnProject\obj\Debug\College1EnProject.pdb
